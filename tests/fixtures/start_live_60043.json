@@ -1,0 +1,10 @@
+{
+  "code": 60043,
+  "message": "本次开播需要身份验证，请在关播时点击开播唤起人脸认证",
+  "msg": "本次开播需要身份验证，请在关播时点击开播唤起人脸认证",
+  "data": {
+    "need_face_auth": false,
+    "qr": "",
+    "risk_extra": {"v_voucher": "voucher-fixture"}
+  }
+}

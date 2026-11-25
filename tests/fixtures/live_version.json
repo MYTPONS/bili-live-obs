@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "curr_version": "8.14.0.11278",
+    "build": 11278,
+    "instruction": "【优化】已知问题修复",
+    "file_size": "365615384",
+    "file_md5": "REDACTED",
+    "content": "<p>REDACTED</p>",
+    "download_url": "https://example.invalid/redacted.exe",
+    "hdiffpatch_switch": 1
+  }
+}

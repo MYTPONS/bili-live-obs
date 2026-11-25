@@ -1,0 +1,9 @@
+{
+  "code": 60024,
+  "message": "目标分区需要人脸认证",
+  "msg": "目标分区需要人脸认证",
+  "data": {
+    "qr": "",
+    "need_face_auth": true
+  }
+}
